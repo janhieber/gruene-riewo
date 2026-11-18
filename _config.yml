@@ -1,4 +1,4 @@
-remote_theme: janhieber/jekyll-theme-gruene@main
+remote_theme: janhieber/jekyll-theme-gruene@latest
 #theme: jekyll-theme-gruene
 
 plugins:
