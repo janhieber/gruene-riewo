@@ -45,7 +45,3 @@ exclude:
   - vendor
   - README.md
   - LICENSE
-
-robots_txt: >-
-  User-agent: *
-  Disallow: /
