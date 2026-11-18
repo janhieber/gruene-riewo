@@ -1,4 +1,4 @@
-remote_theme: janhieber/jekyll-theme-gruene@latest
+remote_theme: janhieber/jekyll-theme-gruene@main
 #theme: jekyll-theme-gruene
 
 plugins:
@@ -6,6 +6,7 @@ plugins:
 
 title: Ortsverband Rielasingen-Worblingen
 subtitle: Bündnis 90/Die Grünen
+banner: "Diese Website ist nur ein Konzept und keine offizielle Seite des Ortsverbands."
 description: "Ortsverband Rielasingen-Worblingen"
 baseurl: ""
 url: ""
@@ -44,3 +45,7 @@ exclude:
   - vendor
   - README.md
   - LICENSE
+
+robots_txt: >-
+  User-agent: *
+  Disallow: /
