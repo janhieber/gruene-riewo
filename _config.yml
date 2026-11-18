@@ -1,8 +1,8 @@
-#remote_theme: janhieber/jekyll-theme-gruene@main
-theme: gruene-theme
+remote_theme: janhieber/jekyll-theme-gruene@main
+#theme: jekyll-theme-gruene
 
-#plugins:
-#  - jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
 
 title: Ortsverband Rielasingen-Worblingen
 subtitle: Bündnis 90/Die Grünen
