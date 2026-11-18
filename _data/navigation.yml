@@ -1,0 +1,23 @@
+main:
+  - title: News
+    url: /news/
+  - title: Termine
+    url: /termine/
+  - title: Mitmachen
+    url: /mitmachen/
+  - title: Kontakt
+    url: /kontakt/
+
+secondary:
+  - title: Ortsverband
+    url: /ortsverband/
+  - title: Gemeinderat
+    url: /gemeinderat/
+  - title: Unsere Ziele
+    url: /ziele/
+
+footer:
+  - title: Impressum
+    url: /impressum/
+  - title: Datenschutz
+    url: /datenschutz/
