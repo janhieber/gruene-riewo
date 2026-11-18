@@ -1,0 +1,9 @@
+---
+title: "Wir bauen Feinstaubsensoren Teil 1"
+date: 2017-04-29 14:13:00
+category: "Ortsverband"
+image: /assets/img/news/wir-bauen-feinstaubsensoren-teil-1/Infoveranstaltung_Luftdaten_mit_Frank_Riedel_und_gruene_ortsverband_rielasingen_worblingen_1200_x_800_658665353c.jpg
+original_url: https://gruene-rielasingen-worblingen.de/2017/04/29/wir-bauen-feinstaubsensoren-teil-1/
+---
+
+Rund 25 Interessierte aus Tuttlingen, Radolfzell, Singen und Rielasingen-Worblingen besuchten den 1. Teil der Veranstaltung „Feinstaub messen + Sensor bauen“ . Frank Riedel Werk welcher ehrenamtlich durch das Ländle tourt hat an diesem Abend aufgezeigt, dass die gesundheitsschädliche Feinstaubbelastung nicht am Ortsausgangsschild der Landeshauptstadt Stopp macht und uns alle betrifft. Während in Stuttgart bereits rund 300 Feinstaubsensoren in Betrieb sind, schaut es auf der Karte von [luftdaten.info](http://luftdaten.info) im Bodenseekreis noch sehr leer aus. Dies möchte der Ortsverband der Grünen Rielasingen-Worblingen nun ändern. Ziel ist es, diese Sensoren in der Nähe stark befahrener Straßen zu platzieren, um dann eigenständig die Daten online und für alle einsehbar zu erheben. Inzwischen haben sich weitere Interessierte auch aus Konstanz gemeldet und möchten gemeinsam Sensoren bauen. Ein zweiter Termin zum Bauen der Feinstaubsensoren ist bereits auf den Weg gebracht und findet am 15.7.2017 um 10:00 Uhr im Veranstaltungsraum von solarcomplex in der Ekkehardstraße 10 in Singen statt. Voraussetzungen für eine Installation sind Strom + WLAN. An einer kabelgebundenen Lösung wird aber bereits getüftelt. +++ HINWEIS +++ Die Lieferzeit der einzelnen Bauteile beträgt ca. 4-6 Wochen. Eine Einkaufsliste dazu gibt es auf der Seite von [http://luftdaten.info](http://luftdaten.info) . Wer also noch mitmachen möchte, sollte zügig die Einzelteile für diesen Bausatz (Kostenaufwand ca. 30 Euro) bestellen und sich beim Ortsverband anmelden.

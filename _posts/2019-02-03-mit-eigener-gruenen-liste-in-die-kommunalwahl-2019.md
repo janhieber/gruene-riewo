@@ -1,0 +1,9 @@
+---
+title: "Mit eigener grünen Liste in die Kommunalwahl 2019"
+date: 2019-02-03 15:06:00
+category: "Ortsverband"
+image: /assets/img/news/mit-eigener-gruenen-liste-in-die-kommunalwahl-2019/Nominierungsveranstaltung_Rielasingen-Worblingen_web-2_bf07c59bd4.jpg
+original_url: https://gruene-rielasingen-worblingen.de/2019/02/03/mit-eigener-gruenen-liste-in-die-kommunalwahl-2019/
+---
+
+Der Ortsverband von Bündnis 90 / Die Grünen Rielasingen-Worblingen nominierte am 30. Januar, 10 Frauen und 8 Männer für die anstehende Kommunalwahl. 2016 mit 9 Mitgliedern gegründet ist der OV inzwischen auf 18 aktive Mitglieder gewachsen denn immer mehr Menschen engagieren sich für die ökologischen Belange Ihrer Gemeinde. Alle Kandidaten*innen möchten sich verstärkt für den Klimaschutz einsetzen. Begrüßt wurden die Anwesenden durch die 3 Vorstandsmitglieder. „Wir wollen mit einer eigenen Liste bei der Gemeinderatswahl 2019 in Rielasingen-Worblingen den Einzug ins Rathaus schaffen“, eröffnete Dagmar Eisenhart den Abend. Norman Pietsch stellte die Tagesordnungspunkte vor und betont: „Auch auf kommunaler Ebene ist eine nachhaltige und ökologische Politik wichtig, die alle Bürgerinnen und Bürger beteiligt und ihnen ermöglicht an der Gestaltung und Prägung der Gemeinde aktiv teilzuhaben“. „Die Liste ist sehr gelungen und eine solide Basis für eine erfolgreiche, politische Arbeit“, so Kreisvorstandsmitglied Martin Schmeding, welcher die Wahlleitung an diesem Abend übernahm. Alle Kandidaten wurden einstimmig und mit Applaus nominiert. Unter einem weiteren Tagesordnungspunkt wurden die Kandidaten Saskia Franke und Uwe Rump für die Kreistagswahl im Wahlbezirk Rielasingen-Worblingen und Höri vorgestellt. „Wir sind sehr zufrieden mit dem Ergebnis, inhaltlich breit aufgestellt und präsentieren eine Kandidatenliste, die auch altersmäßig gut durchmischt ist“. Mit diesen Worten verabschiedete Jana Akyildiz die Gäste.
