@@ -1,6 +1,6 @@
 # Website Ortsverband
 
-Jekyll-Website auf Basis von [gruene-theme](https://github.com/janhieber/jekyll-theme-gruene).
+Jekyll-Website auf Basis von [jekyll-theme-gruene](https://github.com/janhieber/jekyll-theme-gruene).
 
 ## Lokal starten
 
